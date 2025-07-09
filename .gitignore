@@ -1,0 +1,5 @@
+.env
+config.yaml
+discord_bot.log
+iniciar_bot.bat
+__pycache__
